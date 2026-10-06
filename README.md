@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-# 1erPARCIAL - MARTES - 06/10/26 - Comisión 1 -
+# 1erPARCIAL - MARTES - 06/10/26 - Comisión 1 - 
 
 
 
